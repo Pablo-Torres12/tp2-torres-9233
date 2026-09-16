@@ -1,0 +1,5 @@
+google.com
+debian.org
+httpstat.us/301
+httpstat.us/404
+httpstat.us/500
