@@ -16,9 +16,11 @@
 
 ### 4. Chequeo de Páginas (`chequear_paginas.sh`)
 *Ejecución leyendo desde archivo predeterminado:*
+
 ![Chequeo archivo](img/cap_chaquear_pag1.png)
 
 *Ejecución ingresando URLs por parámetros de consola:*
+
 ![Chequeo consola](img/cap_chequear_pag2.png)
 
 ### 5. Respaldador Seguro (`backup_manager.sh`)
